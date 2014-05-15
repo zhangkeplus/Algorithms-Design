@@ -4,7 +4,6 @@
 	> Mail: zhangkeplus@gmail.com 
 	> Created Time: Thu 15 May 2014 12:50:37 PM CST
  ************************************************************************/
-
 #include<iostream>
 #include<fstream>
 using namespace std;
