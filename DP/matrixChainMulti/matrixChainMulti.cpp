@@ -79,9 +79,6 @@ void printCost(int m[][100])
     }
 }
 
-
-
-
 int main()
 {
     input();
